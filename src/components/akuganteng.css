@@ -1,0 +1,16 @@
+.USPS {
+    background-color: rgb(23, 34, 44);
+}
+
+.active {
+    justify-items: right;
+}
+
+.inactive {
+    justify-items: left;
+}
+
+.KNJT {
+    color: green;
+    justify-items: ;
+}
