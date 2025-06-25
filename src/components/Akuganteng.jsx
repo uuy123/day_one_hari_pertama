@@ -15,7 +15,7 @@ function Akuganteng() {
         <p>Aku Gatneg</p>
         <p>Keyboard aku nyasasla nyala</p>
       </div>
-        <button onClick={toggleActive}>Toggle Active</button>
+        <button onClick={toggleActive}>Penced biar geser</button>
       <div className="KNJT">
         <p>Aku Gatneg</p>
       </div>
